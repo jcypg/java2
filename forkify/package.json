@@ -1,0 +1,19 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "proyecto de forkify",
+  "source": "index.html",
+  "scripts": {
+    "start": "index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcypg/java2.git"
+  },
+  "author": "Jocelyn Palacios",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcypg/java2/issues"
+  },
+  "homepage": "https://github.com/jcypg/java2#readme"
+}
